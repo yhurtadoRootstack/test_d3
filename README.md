@@ -19,7 +19,7 @@ Start the development server
 
     $ gulp
 
-Open `http://localhost:8000/examples/` in a browser and choose to view one of
+Open `http://localhost:8000/examples/test.html` in a browser and choose to view one of
 the example maps.
 
 ## Map Showcase
